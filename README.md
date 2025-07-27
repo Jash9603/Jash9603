@@ -64,12 +64,15 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:jashkevdiya@gmail.com"><img src="https://img.shields.io/badge/Email-DM-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://discord.gg/users/jash.jk"><img src="https://img.shields.io/badge/Discord-DoubtQ-5865F2?style=for-the-badge&logo=discord" alt="Discord" /></a>
+  <a href="mailto:jashkevdiya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DM-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.gg/users/jash.jk">
+    <img src="https://img.shields.io/badge/Discord-jash.jk-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/jash-kevadiya-40ab3b266/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jash9603&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
