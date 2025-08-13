@@ -55,8 +55,8 @@
   <a href="https://github.com/Jash9603/EtherSub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jash9603&repo=EtherSub&theme=radical" alt="EtherSub" />
   </a>
-  <a href="https://github.com/Jash9603/Fund-Me-With-Solidity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jash9603&repo=Fund-Me-With-Solidity&theme=radical" alt="Fund‑Me‑With‑Solidity" />
+  <a href="https://github.com/Jash9603/ann-diabetes-classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jash9603&repo=ann-diabetes-classifier&theme=radical" alt="ann-diabetes-classifier" />
   </a>
 </p>
 
