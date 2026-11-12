@@ -7,13 +7,13 @@ AI/ML Engineer focused on agentic systems, LLM pipelines, and full-stack AI prod
 
 ## Projects
 
-**[SupportOS - Agentic AI Support](https://supportos.site/)**
+**[SupportOS - Agentic AI Support](https://github.com/Jash9603/supportOS)**
 Plug-and-play AI support system for SaaS teams built on RAG and vector search. Goes beyond ticket resolution — mines every conversation for product intelligence and surfaces recurring themes via a live insights dashboard. Reduced manual analysis effort by 60%+.
 
-**[DFuse - Enterprise Text-to-SQL](https://dfuse.site/)**
+**[DFuse - Enterprise Text-to-SQL](https://github.com/meetvirani8833/text-to-sql-project)**
 Natural language querying over a highly interconnected enterprise sales database. Dual-pipeline architecture using LangGraph, Neo4j, and pgvector for join-path resolution and semantic entity matching. Achieves 100% deterministic JOIN accuracy with zero hallucination.
 
-**DeciderAI - AI-Powered Decision Making**
+**[DeciderAI - AI-Powered Decision Making](https://github.com/Jash9603/Decider-AI)**
 An agent-driven analytics platform where an Orchestrator agent summons specialist agents (Data, Prediction, UI) to autonomously mutate dashboards based on uploaded datasets. Built on a LangGraph backend state machine,  enabling non-technical users to simulate scenarios without BI team involvement.
 
 ---
